@@ -19,7 +19,7 @@
 	"failed.to.scan.kit": "Nepovedlo se zkontrolovat soubor sady.",
 	"founds.kits.in.directory": "Našly se sady ({0}) v adresáři {1}.",
 	"error.parsing.environment": "Chyba při parsování proměnné prostředí: {0}",
-	"script.run.error.check": "Chyba při spouštění:{0} s argumenty:{1}\n INCLUDE nelze najít v:\n{2}\n Obsah Bat je:\n{3}\nVýstup spuštění:\n{4}\n",
+	"script.run.error.check": "Chyba při spouštění:{0} s argumenty:{1}\r\n INCLUDE nelze najít v:\r\n{2}\r\n Obsah Bat je:\r\n{3}\r\nVýstup spuštění:\r\n{4}\r\n",
 	"windows.sdk.path.patch": "Oprava cesty Windows SDK k bin z {0} na {1} pro {2}",
 	"ok.running": "V pořádku běží {0} {1}, proměnné prostředí: {2}",
 	"checking.for.kit": "Hledá se sada: {0}.",

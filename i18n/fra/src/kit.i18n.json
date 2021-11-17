@@ -19,7 +19,7 @@
 	"failed.to.scan.kit": "Échec de l'analyse d'un fichier de kits",
 	"founds.kits.in.directory": "{0} kits trouvés dans le répertoire {1}",
 	"error.parsing.environment": "Erreur durant l'analyse de la variable d'environnement : {0}",
-	"script.run.error.check": "Erreur d’exécution :{0} avec args :{1}\nImpossible de trouver INCLUDE dans :\n{2}\nContenu bat sont les suivants :\n{3}\nSortie d’exécution sont les suivantes :\n{4}\n",
+	"script.run.error.check": "Erreur d’exécution :{0} avec args :{1}\r\nImpossible de trouver INCLUDE dans :\r\n{2}\r\nContenu bat sont les suivants :\r\n{3}\r\nSortie d’exécution sont les suivantes :\r\n{4}\r\n",
 	"windows.sdk.path.patch": "Corriger le chemin d’accès de corbeille SDK Windows de {0} à {1} pour {2}",
 	"ok.running": "Exécution réussie de {0} {1}, variables d'environnement : {2}",
 	"checking.for.kit": "Recherche du kit : {0}",

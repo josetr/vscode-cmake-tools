@@ -19,7 +19,7 @@
 	"failed.to.scan.kit": "No se pudo examinar un archivo de kit.",
 	"founds.kits.in.directory": "Se encontraron {0} kits en el directorio {1}",
 	"error.parsing.environment": "Error al analizar la variable de entorno: {0}",
-	"script.run.error.check": "Ejecución de errores:{0} con argumentos:{1}\nNo se puede encontrar INCLUDE en:\n{2}\nEl contenido de bat es:\n{3}\nLa salida de ejecución es:\n{4}\n",
+	"script.run.error.check": "Ejecución de errores:{0} con argumentos:{1}\r\nNo se puede encontrar INCLUDE en:\r\n{2}\r\nEl contenido de bat es:\r\n{3}\r\nLa salida de ejecución es:\r\n{4}\r\n",
 	"windows.sdk.path.patch": "Aplicar parche a ruta de acceso de ubicación de Windows SDK de {0} a {1} para {2}",
 	"ok.running": "Se acepta la ejecución de {1} en {0}, variables de entorno: {2}",
 	"checking.for.kit": "Comprobando si existe el kit: {0}",

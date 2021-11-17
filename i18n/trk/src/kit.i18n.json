@@ -19,7 +19,7 @@
 	"failed.to.scan.kit": "Bir set dosyası taranamadı",
 	"founds.kits.in.directory": "{1} dizininde {0} set bulundu",
 	"error.parsing.environment": "{0} ortam değişkeni ayrıştırılırken hata oluştu",
-	"script.run.error.check": "{1}\n bağımsız değişkenleriyle {0} çalıştırılırken hata oluştu. Şunun içinde INCLUDE bulunamıyor:\n{2}\nBat içeriği:\n{3}\nYürütme çıkışı:\n{4}\n",
+	"script.run.error.check": "{1}\r\n bağımsız değişkenleriyle {0} çalıştırılırken hata oluştu. Şunun içinde INCLUDE bulunamıyor:\r\n{2}\r\nBat içeriği:\r\n{3}\r\nYürütme çıkışı:\r\n{4}\r\n",
 	"windows.sdk.path.patch": "{2} için Windows SDK bölme yolunu {0} konumundan {1} konumuna uygula",
 	"ok.running": "{0} {1} çalışıyor, ortam değişkenleri: {2}",
 	"checking.for.kit": "{0} seti denetleniyor",

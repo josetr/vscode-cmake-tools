@@ -19,7 +19,7 @@
 	"failed.to.scan.kit": "无法扫描工具包文件",
 	"founds.kits.in.directory": "已在目录 {1} 中找到 {0} 工具包",
 	"error.parsing.environment": "分析环境变量时出错: {0}",
-	"script.run.error.check": "运行错误: {0} 参数为: {1}\n无法在以下范围找到 INCLUDE: \n{2}\n批处理内容为: \n{3}\n执行输出为: \n{4}\n",
+	"script.run.error.check": "运行错误: {0} 参数为: {1}\r\n无法在以下范围找到 INCLUDE: \r\n{2}\r\n批处理内容为: \r\n{3}\r\n执行输出为: \r\n{4}\r\n",
 	"windows.sdk.path.patch": "修补 Windows SDK 从 {0} 到 {1} 的 {2} 箱路径",
 	"ok.running": "正常运行 {0} {1}，环境变量: {2}",
 	"checking.for.kit": "检查工具包: {0}",
